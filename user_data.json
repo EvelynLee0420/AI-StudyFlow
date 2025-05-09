@@ -1,0 +1,193 @@
+{
+    "student123": {
+        "user_id": "student123",
+        "name": "\u5c0f\u660e",
+        "learning_habits": {
+            "preferred_note_format": "bullet_points",
+            "preferred_study_time": "morning",
+            "preferred_subjects_per_day": 2
+        },
+        "study_preferences": {},
+        "notes": {
+            "\u6578\u5b78": [
+                {
+                    "timestamp": "2025-05-09T16:18:41.620552",
+                    "content": "\u4eca\u5929\u5b78\u4e86\u5fae\u7a4d\u5206\u7684\u57fa\u672c\u5b9a\u7406\uff0c\u9700\u8981\u591a\u7df4\u7fd2\u76f8\u95dc\u984c\u76ee\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:18:41.622717",
+                    "content": "- \u8907\u7fd2\u4e86\u4e09\u89d2\u51fd\u6578\u7684\u516c\u5f0f\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:20:47.140350",
+                    "content": "\u4eca\u5929\u5b78\u4e86\u5fae\u7a4d\u5206\u7684\u57fa\u672c\u5b9a\u7406\uff0c\u9700\u8981\u591a\u7df4\u7fd2\u76f8\u95dc\u984c\u76ee\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:20:47.140350",
+                    "content": "- \u8907\u7fd2\u4e86\u4e09\u89d2\u51fd\u6578\u7684\u516c\u5f0f\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:22:26.584943",
+                    "content": "\u4eca\u5929\u5b78\u4e86\u5fae\u7a4d\u5206\u7684\u57fa\u672c\u5b9a\u7406\uff0c\u9700\u8981\u591a\u7df4\u7fd2\u76f8\u95dc\u984c\u76ee\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:22:26.584943",
+                    "content": "- \u8907\u7fd2\u4e86\u4e09\u89d2\u51fd\u6578\u7684\u516c\u5f0f\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:24:48.625880",
+                    "content": "\u4eca\u5929\u5b78\u4e86\u5fae\u7a4d\u5206\u7684\u57fa\u672c\u5b9a\u7406\uff0c\u9700\u8981\u591a\u7df4\u7fd2\u76f8\u95dc\u984c\u76ee\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:24:48.626905",
+                    "content": "- \u8907\u7fd2\u4e86\u4e09\u89d2\u51fd\u6578\u7684\u516c\u5f0f\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:27:37.029837",
+                    "content": "\u4eca\u5929\u5b78\u4e86\u5fae\u7a4d\u5206\u7684\u57fa\u672c\u5b9a\u7406\uff0c\u9700\u8981\u591a\u7df4\u7fd2\u76f8\u95dc\u984c\u76ee\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:27:37.029837",
+                    "content": "- \u8907\u7fd2\u4e86\u4e09\u89d2\u51fd\u6578\u7684\u516c\u5f0f\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:29:19.692006",
+                    "content": "\u4eca\u5929\u5b78\u4e86\u5fae\u7a4d\u5206\u7684\u57fa\u672c\u5b9a\u7406\uff0c\u9700\u8981\u591a\u7df4\u7fd2\u76f8\u95dc\u984c\u76ee\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:29:19.692006",
+                    "content": "- \u8907\u7fd2\u4e86\u4e09\u89d2\u51fd\u6578\u7684\u516c\u5f0f\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:33:54.349205",
+                    "content": "\u4eca\u5929\u5b78\u4e86\u5fae\u7a4d\u5206\u7684\u57fa\u672c\u5b9a\u7406\uff0c\u9700\u8981\u591a\u7df4\u7fd2\u76f8\u95dc\u984c\u76ee\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:33:54.358282",
+                    "content": "- \u8907\u7fd2\u4e86\u4e09\u89d2\u51fd\u6578\u7684\u516c\u5f0f\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:35:34.380225",
+                    "content": "\u4eca\u5929\u5b78\u4e86\u5fae\u7a4d\u5206\u7684\u57fa\u672c\u5b9a\u7406\uff0c\u9700\u8981\u591a\u7df4\u7fd2\u76f8\u95dc\u984c\u76ee\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:35:34.381647",
+                    "content": "- \u8907\u7fd2\u4e86\u4e09\u89d2\u51fd\u6578\u7684\u516c\u5f0f\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:37:00.521626",
+                    "content": "\u4eca\u5929\u5b78\u4e86\u5fae\u7a4d\u5206\u7684\u57fa\u672c\u5b9a\u7406\uff0c\u9700\u8981\u591a\u7df4\u7fd2\u76f8\u95dc\u984c\u76ee\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:37:00.523140",
+                    "content": "- \u8907\u7fd2\u4e86\u4e09\u89d2\u51fd\u6578\u7684\u516c\u5f0f\u3002"
+                }
+            ],
+            "\u570b\u6587": [
+                {
+                    "timestamp": "2025-05-09T16:18:41.622717",
+                    "content": "\u8b80\u4e86\u8ad6\u8a9e\u9078\u7cb9\uff0c\u7406\u89e3\u4e86\u5b54\u5b50\u7684\u601d\u60f3\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:20:47.141713",
+                    "content": "\u8b80\u4e86\u8ad6\u8a9e\u9078\u7cb9\uff0c\u7406\u89e3\u4e86\u5b54\u5b50\u7684\u601d\u60f3\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:22:26.596757",
+                    "content": "\u8b80\u4e86\u8ad6\u8a9e\u9078\u7cb9\uff0c\u7406\u89e3\u4e86\u5b54\u5b50\u7684\u601d\u60f3\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:24:48.628121",
+                    "content": "\u8b80\u4e86\u8ad6\u8a9e\u9078\u7cb9\uff0c\u7406\u89e3\u4e86\u5b54\u5b50\u7684\u601d\u60f3\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:27:37.029837",
+                    "content": "\u8b80\u4e86\u8ad6\u8a9e\u9078\u7cb9\uff0c\u7406\u89e3\u4e86\u5b54\u5b50\u7684\u601d\u60f3\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:29:19.701277",
+                    "content": "\u8b80\u4e86\u8ad6\u8a9e\u9078\u7cb9\uff0c\u7406\u89e3\u4e86\u5b54\u5b50\u7684\u601d\u60f3\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:33:54.359757",
+                    "content": "\u8b80\u4e86\u8ad6\u8a9e\u9078\u7cb9\uff0c\u7406\u89e3\u4e86\u5b54\u5b50\u7684\u601d\u60f3\u3002"
+                },
+                {
+                    "timestamp": "2025-05-09T16:35:34.382749",
+                    "content": "\u8b80\u4e86\u8ad6\u8a9e\u9078\u7cb9\uff0c\u7406\u89e3\u4e86\u5b54\u5b50\u7684\u601d\u60f3\u3002"
+                }
+            ],
+            "\u7269\u7406": [
+                {
+                    "timestamp": "2025-05-09T16:37:00.523140",
+                    "content": "\u5b78\u7fd2\u4e86\u725b\u9813\u4e09\u5927\u904b\u52d5\u5b9a\u5f8b\u3002"
+                }
+            ],
+            "\u82f1\u6587": [
+                {
+                    "timestamp": "2025-05-09T16:37:00.528681",
+                    "content": "\u5b78\u7fd2\u4e86\u73fe\u5728\u5b8c\u6210\u5f0f\u7684\u7528\u6cd5\u3002"
+                }
+            ]
+        },
+        "study_schedule": {
+            "Monday": [
+                {
+                    "[\u65e9\u4e0a] \u6578\u5b78": 1.0
+                },
+                {
+                    "[\u65e9\u4e0a] \u82f1\u6587": 1.0
+                }
+            ],
+            "Tuesday": [
+                {
+                    "[\u65e9\u4e0a] \u82f1\u6587": 2.0
+                },
+                {
+                    "[\u65e9\u4e0a] \u7269\u7406": 2.0
+                }
+            ],
+            "Wednesday": [
+                {
+                    "[\u65e9\u4e0a] \u7269\u7406": 1.5
+                },
+                {
+                    "[\u65e9\u4e0a] \u6578\u5b78": 1.5
+                }
+            ],
+            "Thursday": [
+                {
+                    "[\u65e9\u4e0a] \u6578\u5b78": 0.5
+                },
+                {
+                    "[\u65e9\u4e0a] \u82f1\u6587": 0.5
+                }
+            ],
+            "Friday": [
+                {
+                    "[\u65e9\u4e0a] \u82f1\u6587": 0.5
+                },
+                {
+                    "[\u65e9\u4e0a] \u7269\u7406": 0.5
+                }
+            ],
+            "Saturday": [
+                {
+                    "[\u65e9\u4e0a] \u7269\u7406": 1.0
+                },
+                {
+                    "[\u65e9\u4e0a] \u6578\u5b78": 1.0
+                }
+            ],
+            "Sunday": [
+                {
+                    "[\u65e9\u4e0a] \u6578\u5b78": 2.0
+                },
+                {
+                    "[\u65e9\u4e0a] \u82f1\u6587": 2.0
+                }
+            ],
+            "\u8907\u7fd2": "[\u65e9\u4e0a] {'start_day': '\u8003\u524d 36 \u5929'}"
+        }
+    }
+}
